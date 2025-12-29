@@ -149,3 +149,4 @@ If you are the author you have to change the email below:
 **Preferred method:** Email only. No unsolicited commercial requests will be considered without a clear subject line and purpose.
 
 Alternatively, the author may publish an official contact form or platform at their discretion. All communication must be respectful and in good faith. Lack of response does **not** imply permission.
+
